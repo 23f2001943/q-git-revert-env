@@ -1,5 +1,6 @@
 name: Email Check Action
 
+
 on:
   push:
     branches:
