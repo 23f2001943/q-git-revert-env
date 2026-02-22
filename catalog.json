@@ -25,9 +25,14 @@
     { "id": "prod-69ecc686-019", "name": "Pro Item 19", "category": "books", "price": 132.38, "stock": 188, "rating": 3.3 }
   ],
   "aggregations": {
-    "electronics": {
-      "count": 3,
-      "inventoryValue": 80122.16
-    }
+  "electronics": {
+    "count": 3,
+    "inventoryValue": 80122.16
+  },
+  "clothing": {
+    "count": 5,
+    "inventoryValue": 0
   }
 }
+}
+ 
