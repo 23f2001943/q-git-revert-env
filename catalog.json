@@ -35,15 +35,15 @@
   },
   "books": {
     "count": 5,
-    "inventoryValue": 0
+    "inventoryValue": 84289.5
   },
   "sports": {
     "count": 3,
-    "inventoryValue": 0
+    "inventoryValue": 14645.56
   },
   "home": {
     "count": 3,
-    "inventoryValue": 0
+    "inventoryValue": 145816.4
   }
 }
 }
